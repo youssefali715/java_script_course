@@ -219,8 +219,8 @@ Put the script tag at the top of the body or in the head
 
 ### Search Results
 
-- [x] [Use Cases of Comments and bad practice]()
+- [x] [Use Cases of Comments and bad practice](https://github.com/youssefali715/java_script_course/blob/main/Week%201/comments.md)
 - [x] [Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-- [x] [ECMA Organization]()
-- [x] [Scripting Language]()
+- [x] [ECMA Organization](https://github.com/youssefali715/java_script_course/blob/main/Week%201/ecma.md)
+- [x] [Scripting Language](https://github.com/youssefali715/java_script_course/blob/main/Week%201/script_langs.md)
 - [x] [Chrome Dev Tools](https://developer.chrome.com/)
