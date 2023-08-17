@@ -123,3 +123,11 @@ You can know what differes from other version of js using [es6-features.org](htt
 - [x] [ECMA Organization](https://github.com/youssefali715/java_script_course/blob/main/Week%201/ecma.md)
 - [x] [Scripting Language](https://github.com/youssefali715/java_script_course/blob/main/Week%201/script_langs.md)
 - [x] [Chrome Dev Tools](https://developer.chrome.com/)
+
+# Refrences
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html?guccounter=2&guce_referrer=aHR0cHM6Ly9lbHplcm8ub3JnLw&guce_referrer_sig=AQAAAIOzHOVq1ly75WmBu4XBsEACNoak_GhA2-b2nMFDbPQ3O1RCZOaiHbOYjz4PPqr7MpjDG1MnAUx80kWsgEQgZMHBw76zMhnGMY7pz-8AGJsff3b5ifwTvzztN-NQiyfI_xObMHBJHNi9EodSEUoW7yrzu9xsaNOzJOb7BYSbBjH_)
+- [`<script>` Tag in HTML](https://html.spec.whatwg.org/multipage/scripting.html#attr-script-async)
+- [defer](https://html.spec.whatwg.org/multipage/scripting.html#attr-script-defer)
+- [Chrome Dev Tools 20+ Tips & Tricks](https://www.keycdn.com/blog/chrome-devtools)
+- [More explain for chrome Dev Tools](https://www.bitdegree.org/learn/chrome-developer-tools)
+- [Elzero VID about chrome dev tools](https://www.youtube.com/watch?v=_IKTGQosYMo&list=PLDoPjvoNmBAz30MJ4-4lxhmu668bFTcoj&index=20)
