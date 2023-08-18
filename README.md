@@ -1,6 +1,7 @@
 # JS Course
 
 This is a repository that contains all assignments, cheat sheets and search results for the "Learn JavaScript in Arabic" Course by 'Osama Elzero'.
+![Static Badge](https://img.shields.io/badge/Progress-18%25-blue)
 - [x] Week 1
 - [x] Week 2
 - [x] Week 3
