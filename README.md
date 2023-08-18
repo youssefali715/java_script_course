@@ -28,10 +28,3 @@ This is a repository that contains all assignments, cheat sheets and search resu
 #  [Week 20](https://github.com/youssefali715/java_script_course/tree/main/Week%2020)
 #  [Week 21](https://github.com/youssefali715/java_script_course/tree/main/Week%2021)
 #  [Week 22](https://github.com/youssefali715/java_script_course/tree/main/Week%2022)
-## [Week 1](https://github.com/youssefali715/java_script_course/tree/main/Week%201)
-
-## [Week 2](https://github.com/youssefali715/java_script_course/tree/main/Week%202)
-
-## [Week 3](https://github.com/youssefali715/java_script_course/tree/main/Week%203)
-
-## [Week 4](https://github.com/youssefali715/java_script_course/tree/main/Week%204)
