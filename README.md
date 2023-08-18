@@ -1,8 +1,7 @@
 # JS Course
 
 This is a repository that contains all assignments, cheat sheets and search results for the "Learn JavaScript in Arabic" Course by 'Osama Elzero'.
-- [ ] Week 1
-- [ ] Week 2
+- [ ] Week 1 | - [ ] Week 2 
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
