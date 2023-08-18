@@ -5,9 +5,9 @@ This is a repository that contains all assignments, cheat sheets and search resu
 ![Static Badge](https://img.shields.io/badge/Progress-18%25-blue)
 # [Week 1](https://github.com/youssefali715/java_script_course/tree/main/Week%201) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
-# [Week 2](https://github.com/youssefali715/java_script_course/tree/main/Week%202)![Static Badge](https://img.shields.io/badge/DONE-green)
+# [Week 2](https://github.com/youssefali715/java_script_course/tree/main/Week%202) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
-# [Week 3](https://github.com/youssefali715/java_script_course/tree/main/Week%203)![Static Badge](https://img.shields.io/badge/DONE-green)
+# [Week 3](https://github.com/youssefali715/java_script_course/tree/main/Week%203) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
 #  [Week 4](https://github.com/youssefali715/java_script_course/tree/main/Week%204)
 #  [Week 5](https://github.com/youssefali715/java_script_course/tree/main/Week%205)
