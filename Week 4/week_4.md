@@ -33,3 +33,8 @@ There are properties the Number , like:
 - `Math.pow( )` // Returns the power
 - `Math.random( )` // Returns Random Number
 - `Math.trunc( )` // Returns the Integral Part from the number
+
+# String
+- You can acces elementa in the string via indexing by using brackets
+- Chain Methods are collection of methods used together
+- Here's all Methods of String from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
