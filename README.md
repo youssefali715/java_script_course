@@ -9,7 +9,8 @@ This is a repository that contains all assignments, cheat sheets and search resu
 
 # [Week 3](https://github.com/youssefali715/java_script_course/tree/main/Week%203) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
-#  [Week 4](https://github.com/youssefali715/java_script_course/tree/main/Week%204)
+#  [Week 4](https://github.com/youssefali715/java_script_course/tree/main/Week%204) ![Static Badge](https://img.shields.io/badge/DONE-green)
+
 #  [Week 5](https://github.com/youssefali715/java_script_course/tree/main/Week%205)
 #  [Week 6](https://github.com/youssefali715/java_script_course/tree/main/Week%206)
 #  [Week 7](https://github.com/youssefali715/java_script_course/tree/main/Week%207)
