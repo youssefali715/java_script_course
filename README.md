@@ -2,7 +2,7 @@
 
 This is a repository that contains all assignments, cheat sheets and search results for the "Learn JavaScript in Arabic" Course by 'Osama Elzero'.
 
-![Static Badge](https://img.shields.io/badge/Progress-18%25-blue)
+![Static Badge](https://img.shields.io/badge/Progress-31%25-blue)
 # [Week 1](https://github.com/youssefali715/java_script_course/tree/main/Week%201) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
 # [Week 2](https://github.com/youssefali715/java_script_course/tree/main/Week%202) ![Static Badge](https://img.shields.io/badge/DONE-green)
@@ -11,9 +11,12 @@ This is a repository that contains all assignments, cheat sheets and search resu
 
 #  [Week 4](https://github.com/youssefali715/java_script_course/tree/main/Week%204) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
-#  [Week 5](https://github.com/youssefali715/java_script_course/tree/main/Week%205)
-#  [Week 6](https://github.com/youssefali715/java_script_course/tree/main/Week%206)
-#  [Week 7](https://github.com/youssefali715/java_script_course/tree/main/Week%207)
+#  [Week 5](https://github.com/youssefali715/java_script_course/tree/main/Week%205) ![Static Badge](https://img.shields.io/badge/DONE-green)
+
+#  [Week 6](https://github.com/youssefali715/java_script_course/tree/main/Week%206) ![Static Badge](https://img.shields.io/badge/DONE-green)
+
+#  [Week 7](https://github.com/youssefali715/java_script_course/tree/main/Week%207) ![Static Badge](https://img.shields.io/badge/DONE-green)
+
 #  [Week 8](https://github.com/youssefali715/java_script_course/tree/main/Week%208)
 #  [Week 9](https://github.com/youssefali715/java_script_course/tree/main/Week%209)
 #  [Week 10](https://github.com/youssefali715/java_script_course/tree/main/Week%2010)
