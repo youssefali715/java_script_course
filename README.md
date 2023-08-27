@@ -2,7 +2,7 @@
 
 This is a repository that contains all assignments, cheat sheets and search results for the "Learn JavaScript in Arabic" Course by 'Osama Elzero'.
 
-![Static Badge](https://img.shields.io/badge/Progress-31%25-blue)
+![Static Badge](https://img.shields.io/badge/Progress-37%25-blue)
 # [Week 1](https://github.com/youssefali715/java_script_course/tree/main/Week%201) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
 # [Week 2](https://github.com/youssefali715/java_script_course/tree/main/Week%202) ![Static Badge](https://img.shields.io/badge/DONE-green)
