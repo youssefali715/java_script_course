@@ -2,7 +2,7 @@
 
 This is a repository that contains all assignments, cheat sheets and search results for the "Learn JavaScript in Arabic" Course by 'Osama Elzero'.
 
-![Static Badge](https://img.shields.io/badge/Progress-42%25-blue)
+![Static Badge](https://img.shields.io/badge/Progress-45%25-blue)
 # [Week 1](https://github.com/youssefali715/java_script_course/tree/main/Week%201) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
 # [Week 2](https://github.com/youssefali715/java_script_course/tree/main/Week%202) ![Static Badge](https://img.shields.io/badge/DONE-green)
@@ -23,7 +23,8 @@ This is a repository that contains all assignments, cheat sheets and search resu
 
 #  [Week 10](https://github.com/youssefali715/java_script_course/tree/main/Week%2010) ![Static Badge](https://img.shields.io/badge/DONE-green)
 
-#  [Week 11](https://github.com/youssefali715/java_script_course/tree/main/Week%2011)
+#  [Week 11](https://github.com/youssefali715/java_script_course/tree/main/Week%2011) ![Static Badge](https://img.shields.io/badge/DONE-green)
+
 #  [Week 12](https://github.com/youssefali715/java_script_course/tree/main/Week%2012)
 #  [Week 13](https://github.com/youssefali715/java_script_course/tree/main/Week%2013)
 #  [Week 14](https://github.com/youssefali715/java_script_course/tree/main/Week%2014)
