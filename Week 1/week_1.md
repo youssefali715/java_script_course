@@ -17,7 +17,7 @@
 
 ### Content of the course
 
-- [ ] JS Core Language
+- [x] JS Core Language
 - [ ] DOM
 - [ ] BOM
 - [ ] Ecma Script 6 + 7
